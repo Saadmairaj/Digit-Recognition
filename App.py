@@ -168,8 +168,8 @@ class Draw_Pad(Canvas):
     def details_help(self, evt=None):
         messagebox.showinfo("Important Information", 
         """
-        This is a Meachine Learning Model 
-        based on Keras algorithm.
+        This is a Machine Learning Model 
+        based on the Keras algorithm.
 
         What does this do?
           We can Recognise Hand-Written 
